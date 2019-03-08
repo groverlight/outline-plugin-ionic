@@ -1,11 +1,16 @@
 {
-  "name": "outline-plugin-ionic",
+  "name": "@ionic-native/outline-plugin-ionic",
   "version": "1.0.0",
-  "description": "ionic native plugin",
+  "description": "Ionic Native - Native plugins for ionic apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "peerDependencies": {
+    "@ionic-native/core": "^4.11.0"
+  },
+  "module": "index.js",
+  "typings": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JTANISME/outline-plugin-ionic.git"
