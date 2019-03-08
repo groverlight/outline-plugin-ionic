@@ -1,0 +1,23 @@
+{
+  "name": "outline-plugin-ionic",
+  "version": "1.0.0",
+  "description": "ionic native plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTANISME/outline-plugin-ionic.git"
+  },
+  "keywords": [
+    "outline",
+    "native"
+  ],
+  "author": "outline",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JTANISME/outline-plugin-ionic/issues"
+  },
+  "homepage": "https://github.com/JTANISME/outline-plugin-ionic#readme"
+}
